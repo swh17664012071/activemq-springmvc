@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 public class Email {
     // 接收人
     private String receiver;
-    //sdawd
+    //sdawdxx
     // 邮件主题
     private String subject;
 
